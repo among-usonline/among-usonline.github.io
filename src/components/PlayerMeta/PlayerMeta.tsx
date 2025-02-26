@@ -3,7 +3,7 @@
 // Styles
 import styles from './styles/PlayerMeta.module.scss';
 import {ReactNode} from "react";
-import ClassName from '../../../../nf00005/src/utils/models/classname';
+import ClassName from '@/utils/models/classname';
 
 /**
  * Navigation for the application.

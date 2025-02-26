@@ -4,7 +4,7 @@ import Link from "next/link";
 import screenfull from "screenfull";
 import Image from "next/image";
 import styles from './styles/PlayerHome.module.scss';
-import Classname from "../../../../nf00005/src/utils/models/classname";
+import Classname from "@/utils/models/classname";
 import {useEffect, useRef} from "react";
 import PlayerMeta from "./PlayerMeta";
 

@@ -1,7 +1,7 @@
-import ClassName from '../../../../nf00005/src/utils/models/classname';
+import ClassName from '@/utils/models/classname';
 
 import styles from './styles/PlayerMeta.module.scss';
-import Shares from "../../../../nf00005/src/components/Shares";
+import Shares from "@/components/Shares";
 import Link from "next/link";
 
 type TPlayerMetaProps = {
