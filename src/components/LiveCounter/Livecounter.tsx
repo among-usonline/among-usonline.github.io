@@ -17,7 +17,7 @@ const Livecounter = () => {
         target={'_blank'}
       >
         <Image
-          id={'licnt2E59'}
+          id={'licnt91E6'}
           priority
           src={'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7'}
           className={styles.logo__image}
